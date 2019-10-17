@@ -12,7 +12,7 @@ autoscale: true
 
 ^ 1
 
-^ Hello! My name is Emanuil. I work for Elastic, the open source search company. Today though, we're talking about a different kind of search - the search for fulfilment and meaning at work! Reminder this is just my view of things and can be incomplete or wrong.
+^ Hello! My name is Emanuil. I work for Elastic, the open source search company. Today though, we're talking about a different kind of search - the search for fulfilment and meaning at work! This is just my view of things and can be incomplete or wrong.
 
 ---
 
@@ -43,7 +43,7 @@ autoscale: true
 
 ^ 4
 
-^ Coaching is supposed to help them get through these blockers more quickly than on their own. When you're coaching, you'll need to be an empathetic listener *and* hold the other person accountable to their own goals. If their current work approach were a house, coaching would fix one of the windows.
+^ Coaching is supposed to help them get through these blockers more quickly than on their own. When you're coaching, you'll need to be an empathetic listener *and* hold the other person accountable to their own goals. If we think of their current work approach as a house, coaching focusses on fixing one window.
 
 ---
 
@@ -51,7 +51,7 @@ autoscale: true
 
 ^ 5
 
-^ Mentoring is more exploratory. You build a relationship and focus on trends and approaches to work. For example what goals the person may want to set. What are their values? How do they feel about work? Or how do they build an approach for achieving these goals.
+^ Mentoring is more exploratory. You build a relationship and focus on trends and approaches to work. For example what goals are right for that person? What are their values? How do they feel about work? Or how do they build an approach for achieving these goals.
 
 ---
 
@@ -132,7 +132,7 @@ autoscale: true
 
 ^ 14
 
-^ Our world, and especially tech, is often driven by narrow tunnel vision. Sometimes you need that to achieve things, but it's useful to be able to step back. Back beyond mere "strategic perspective", into true reflection mode on how we feel and impact the world.
+^ Our world, and especially tech, is often driven by narrow tunnel vision. Sometimes you need focus to achieve things, but it's useful to be able to step back. Back beyond mere "strategic perspective", into true reflection mode on how we feel and impact the world.
 
 ---
 
