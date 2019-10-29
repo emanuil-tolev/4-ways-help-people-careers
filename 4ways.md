@@ -12,7 +12,7 @@ autoscale: true
 
 ^ 1
 
-^ Hello! My name is Emanuil. I work for Elastic, the open source search company. Today though, we're talking about a different kind of search - the search for fulfilment and meaning at work! This is just my view of things and can be incomplete or wrong.
+^ Hello! My name is Emanuil. I work for Elastic, the open source search company. But today we talk about a different kind of search - the search for fulfilment and meaning at work and how to help others find it! This is only my opinion and can be wrong.
 
 ---
 
@@ -20,12 +20,12 @@ autoscale: true
 
 ^ 2
 
-^ Who here has been helped in their career development with some kind of structured help method, like coaching? Raise your hands.
+^ Now .. raise your hand if you've been helped in your career with some structured help method, like coaching?
 ^ Okay, (
-^ there's quite a few of you, this is an important set of skills ||
+^ there's quite a few of you ||
 ^ there aren't very many of you, you've got work to do!
 ^ )
-^ They're worthwhile methods which can really power up your corner of the sector.
+^ These methods can really power up your corner of the sector: learn them and teach them.
 
 ---
 
@@ -33,7 +33,7 @@ autoscale: true
 
 ^ 3
 
-^ Coaching is a task-based type of help, *typically* shorter term. The person being coached has a specific goal, upgrading their skills to meet more responsibility, or because they feel they're behind. When learning something very different to their existing skills, people often get stuck and experience fear or anxiety.
+^ Alright, let's start with coaching. To me it is *typically* shorter term and more task-based, like upgrading a skill. But, when learning something different to our existing skills, we can get stuck and experience fear or anxiety.
 
 ---
 
@@ -43,7 +43,7 @@ autoscale: true
 
 ^ 4
 
-^ Coaching is supposed to help them get through these blockers more quickly than on their own. When you're coaching, you'll need to be an empathetic listener *and* hold the other person accountable to their own goals. If we think of their current work approach as a house, coaching focusses on fixing one window.
+^ If our current work approach was a house, coaching focusses on fixing one window, like these fear blockers. A coach is both an empathetic listener *and* holds you accountable to *your own* goals.
 
 ---
 
@@ -51,7 +51,7 @@ autoscale: true
 
 ^ 5
 
-^ Mentoring is more exploratory. You build a relationship and focus on trends and approaches to work. For example what goals are right for that person? What are their values? How do they feel about work? Or how do they build an approach for achieving these goals.
+^ Mentoring is a more exploratory relationship. You build it and focus on trends and approaches to work. What goals are even right for you? What are your values? How do you feel about the work?
 
 ---
 
@@ -69,7 +69,7 @@ autoscale: true
 
 ^ 7
 
-^ A sponsor is someone who has enough clout in the organisation to make a difference in decisions *others make* about *the sponsored person's* progress. A sponsor believes *in the person*, in their skills, and their abilities, enough to risk their own credibility for them.
+^ A sponsor is someone who has enough clout in the organisation to influence decisions *others make* about *your* progress. A sponsor believes *in you*, in your skills, abilities, and *potential* enough to risk their credibility for you.
 
 ---
 
@@ -79,7 +79,7 @@ autoscale: true
 
 ^ 8
 
-^ A sponsor sets up 1:1s with relevant decision makers. They prepare those people to see the other person in their best light and point out hidden opportunities. Going back to houses, a sponsor helps upgrade the house, either with a loan of credibility or directly with people and materials.
+^ A sponsor prepares relevant decision makers to see you in your best light and points out hidden opportunities. Going back to houses, a sponsor helps upgrade the house, either with a loan of credibility or directly with people and materials.
 
 ---
 
@@ -87,7 +87,7 @@ autoscale: true
 
 ^ 9
 
-^ I'm not sure about the name, but compared to the other methods career counselling is a less formalised type of active listening. Drawing out the positive details from another person's professional story, showing them a good narrative. Talking them up to risks they can take but are afraid of.
+^ I picked this name and am not sure about it. Career counselling is a less formal type of active listening. Drawing out the positive details from another person's professional story, showing them a good narrative about themselves.
 
 ---
 
@@ -98,7 +98,7 @@ autoscale: true
 
 ^ 10
 
-^ CV and cover letter reviews are a subset of this. They're a skill and art of their own - dig into them! I must mention Donut, a Slackbot. It's a fun low-key way to introduce people to each other and facilitate informal active career listening across your org.
+^ CV and cover letter reviews are a subset of this. They're a skill and art of their own - dig into them! I must mention Donut, a Slackbot which pairs people up. You could use it to encourage career counselling in your org.
 
 ---
 
@@ -106,7 +106,7 @@ autoscale: true
 
 ^ 11
 
-^ So far so good, we've taken a blank slate and put four boxes on there. Useful and you should dig into these and use them to help people. But there's more to this. Let's go a bit deeper and more abstract.
+^ So far so good, we've taken a blank slate and put 4 methods - 4 boxes on there. Useful and you should dig into these and use them to help people. But now let's go a bit deeper and more abstract.
 
 ---
 
@@ -124,30 +124,30 @@ autoscale: true
 
 ^ 13
 
-^ Notice the black ink splashed on a book. When the monsters arrive, everyone gets depressed and gives up on life. The Glitterforce beats the monsters by finding it within themselves to keep going and never give up.
-
----
-
-## Melancholy & contemplation are good
-
-^ 14
-
-^ Our world, and especially tech, is often driven by narrow tunnel vision. Sometimes you need focus to achieve things, but it's useful to be able to step back. Back beyond mere "strategic perspective", into true reflection mode on how we feel and impact the world.
+^ To do this they use magic black ink. When they arrive, everyone gets depressed and gives up on life. The Glitterforce beats the monsters by finding it within themselves to keep going and never give up, literally giving the world a happy ending.
 
 ---
 
 ## The power of stories and self-narrative
 
-^ 15
+^ 14
 
-^ The stories we tell ourselves are very powerful. They're not just make-believe, many many stories become reality or affect it strongly in some way. Melancholy and contemplation can make people's internal narratives start to include self-imposed limits coming from fears and anxieties.
+^ The stories we tell ourselves are very powerful. They're not just make-believe, many become reality. Melancholy and contemplation *can* write self-imposed limits into people's internal narratives.
 
 ---
 
-## Mechanisms of darkness
+## Melancholy & contemplation are good
+
+^ 15
+
+^ Now, they are not bad. Sometimes you need focus to achieve things, but it's useful to be able to step back, and tech likes its tunnel vision optimism too much. They help reflect on how we feel and how we impact the world with our work.
+
+---
+
+## Mechanisms of doubt
 ^ 16
 
-^ As time passes, people affirm these negative self-stories, building elaborate mechanisms that tell them why they can't, why they are less, why they shouldn't. Mental mechanisms of darkness.
+^ The problem is, people use them to write negative self-stories that tell them why they can't, why they are less, why they shouldn't. Mental mechanisms of doubt which reinforce each other and compound their effects.
 
 ---
 
@@ -157,7 +157,7 @@ autoscale: true
 
 ^ 17
 
-^ While the mentoring, coaching and so on differ in their everyday meaning and motions, they are united by the role you play. You're a companion, taking a walk with the other person through the landscape of their mind.
+^ Your most important role as a helper is to counteract these mechanisms. Mentoring, coaching and so on differ in the details but are united by this. You're a companion, taking a walk with the other person through the landscape of their mind.
 
 ---
 
@@ -166,7 +166,7 @@ autoscale: true
 
 ^ 18
 
-^ People must make their own journey - you can't do it for them. But you can keep your eyes open for self-limiting beliefs and fears. You can point those out and refer them to resources or other people that can help them explore and eventually dissolve the underlying fear.
+^ People must make their own journey - you can't do it for them. But you can keep your eyes open for self-limiting beliefs, fear and doubt. Use other people and resources to help explore and dissolve the underlying fear.
 
 ---
 
@@ -182,6 +182,8 @@ autoscale: true
 
 ^ 19
 
+^ To get you started practically, here are some things you can do at this conf and at work. Broadly speaking, listen carefully, be vulnerable if you can and make others reflect on who they want to be and what they want to do.
+
 ---
 
 ## Thank you!
@@ -190,3 +192,5 @@ autoscale: true
 #### (just check if they want / need it first!)
 
 ^ 20
+
+^ Now go help other people blaze their way to a happy ending! Just be very sure to check if they want your help first. Thank you for listening, and good luck.
